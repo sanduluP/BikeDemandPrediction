@@ -1,0 +1,5 @@
+{
+    "hourly_data_path": "data/hour.csv",
+    "daily_data_path": "data/day.csv",
+    "train_split_ratio": 0.8
+}
